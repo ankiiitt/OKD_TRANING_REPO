@@ -1,6 +1,6 @@
 <?php
       
       
- print "Welcome to this linux world tutorila..!!!";     
+ print "Welcome to this linux world tutorial first..!!!";     
       
 ?>
